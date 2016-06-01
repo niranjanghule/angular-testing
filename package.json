@@ -1,0 +1,26 @@
+{
+  "name": "angular_testing",
+  "version": "0.0.1",
+  "description": "angular testing example",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "niranjan ghule",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.6",
+    "angular-mocks": "^1.5.6",
+    "angular-resource": "^1.5.6",
+    "karma": "^0.13.22",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}
